@@ -1,6 +1,8 @@
 Here is my cheatsheet of random remaps or commands I want to remember
 Note that my <leader> is " " (a space)
 
+:! -> Lets you run terminal commands (e.g. :!python3 test.py)
+
 $ -> Goto end of line
 0 -> go to start of line
 gg -> go to start of document
