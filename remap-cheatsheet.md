@@ -39,4 +39,6 @@ plugin specific
 " u" toggle undo tree (this thing confuses me)
 "C-w {h,j,k,l}" Move between split panes in vim  *useful for undotree
 
-I have no clue how my lsp works. Wild...
+"C-{n-p}" -> Next/Previous suggestion in auto complete
+"C-y" -> Confirms and selects the current suggestion
+"C-Space" -> Supposed to complete, idk how its different from confirm

@@ -10,3 +10,5 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 
 You will probably want to change you TMUX commands such that C-b still puts
 IMPORTANT: you in tmux mode, but moving between panes can be i-j-k-l
+
+if for some reason you cursor isn't a block, do :set guicursor=n:block
